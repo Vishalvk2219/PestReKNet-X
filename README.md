@@ -196,6 +196,7 @@ We used the **CCMT: Dataset for crop pest and disease detection**
 | **Classes** | 22 | Pest and Disease Categories |
 
 ![Dataset Distribution](./assets/dataset_distribution.png)
+
 *Figure 4: Class distribution across train/validation/test splits*
 
 ### Supported Classes
@@ -316,6 +317,7 @@ explanation.show_in_notebook()
 
 ### Confusion Matrix
 ![Confusion Matrix](./assets/confusion_matrix.png)
+
 *Figure 8: Confusion matrix showing per-class performance*
 
 ---
