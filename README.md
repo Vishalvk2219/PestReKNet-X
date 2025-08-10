@@ -307,6 +307,7 @@ explanation.show_in_notebook()
 ```
 
 ![XAI Examples](./assets/combined_grad.png)
+
 *Figure 7: Grad-CAM and LIME explanations for sample predictions*
 
 ---
