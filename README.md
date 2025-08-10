@@ -403,8 +403,8 @@ If you use this work in your research, please cite our paper:
 ### Authors
 - **Chiranjit Pal** - [email@example.com](mailto:email@example.com)
 - **Vipin Kumar Soni** - [vipinkumarsoni24@gmail.com](mailto:vipinkumarsoni24@gmail.com)
-- **Jatin Chauhan** - [email@example.com](mailto:email@example.com)
-- **Vishal Kumar** - [vishalvk2219@gmail.com.com](mailto:vishalkumarvk2219@gmail.com)
+- **Jatin Chauhan** - [jatin10052004@gmail.com](mailto:jatin10052004@gmail.com)
+- **Vishal Kumar** - [vishalkumarvk2219@gmail.com.com](mailto:vishalkumarvk2219@gmail.com)
 
 ### Support
 - 🐛 **Issues**: [GitHub Issues](https://github.com/vishalvk2219/PestReKNet-X/issues)
