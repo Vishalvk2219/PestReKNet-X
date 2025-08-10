@@ -41,16 +41,6 @@ The framework integrates **Explainable AI (XAI)** techniques — **Grad-CAM** an
 | **Number of Classes** | 22 |
 | **Early Stopping** | Epoch 39/40 |
 
-### Performance Comparison
-![Performance Comparison](./assets/performance_comparison.png)
-*Figure 3: Performance comparison with state-of-the-art models*
-
-| Model | Accuracy | Parameters | FLOPs |
-|-------|----------|------------|-------|
-| **PestReKNet-X (Ours)** | **95.09%** | 11.2M | 1.8G |
-| Swin Transformer | 93.24% | 28.3M | 4.5G |
-| MobileNetV3Large | 91.78% | 5.4M | 0.2G |
-| EfficientNet-B4 | 92.56% | 19.3M | 4.2G |
 
 ---
 
