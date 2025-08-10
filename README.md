@@ -22,6 +22,7 @@ The framework integrates **Explainable AI (XAI)** techniques — **Grad-CAM** an
 - 🚀 **Easy Deployment**: Pre-trained weights and inference scripts
 
 ![Sample Results](./assets/sample_predictions.png)
+
 *Figure 2: Sample predictions with Grad-CAM visualizations showing model attention*
 
 ---
