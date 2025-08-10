@@ -26,13 +26,6 @@ The framework integrates **Explainable AI (XAI)** techniques — **Grad-CAM** an
 
 ---
 
-## 📄 Research Paper
-
-The complete research work is available here:  
-**[📄 PestReKNet-X Research Paper](./paper/PestReKNet_X__Integrating_Explainable_AI_to_Enhance_Pest_Disease_Detection_and_Combat_Crop_Senescence.pdf)**
-
----
-
 ## 📊 Key Results
 
 | Metric | Value |
