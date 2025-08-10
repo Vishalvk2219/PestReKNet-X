@@ -216,10 +216,37 @@ We used the **CCMT: Dataset for crop pest and disease detection**
 
 ### Supported Classes
 The model can classify the following categories:
-- 🐛 **Pest Detection**: Aphids, Caterpillars, Beetles, etc.
-- 🦠 **Disease Classification**: Blight, Rust, Mildew, etc.
-- 🌱 **Healthy Crops**: Normal crop conditions
-- 🍂 **Senescence Detection**: Aging and deteriorating crops
+🐛 Pest Detection
+
+Cashew: Leaf Miner
+
+Cassava: Green Mite
+
+Maize: Fall Armyworm, Grasshopper, Leaf Beetle
+
+🦠 Disease Classification
+
+Cashew: Anthracnose, Gummosis, Red Rust
+
+Cassava: Bacterial Blight, Brown Spot, Mosaic
+
+Maize: Leaf Blight, Leaf Spot, Streak Virus
+
+Tomato: Leaf Blight, Leaf Curl, Septoria Leaf Spot, Verticillium Wilt
+
+🌱 Healthy Crops
+
+Cashew: Healthy
+
+Cassava: Healthy
+
+Maize: Healthy
+
+Tomato: Healthy
+
+🍂 Senescence Detection
+
+Biotic stress-induced senescence signs across crops, particularly visible in aging or diseased leaves (e.g., Yellowing in Late-Stage Blight or Wilt).
 
 ---
 
