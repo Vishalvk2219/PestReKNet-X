@@ -381,9 +381,9 @@ If you use this work in your research, please cite our paper:
 
 ### Authors
 - **Chiranjit Pal** - [email@example.com](mailto:email@example.com)
-- **Chiranjit Pal** - [vipinkumarsoni24@gmail.com](mailto:vipinkumarsoni24@gmail.com)
+- **Vipin Kumar Soni** - [vipinkumarsoni24@gmail.com](mailto:vipinkumarsoni24@gmail.com)
 - **Jatin Chauhan** - [email@example.com](mailto:email@example.com)
-- **Vishal Kumar** - [email@example.com](mailto:email@example.com)
+- **Vishal Kumar** - [vishalvk2219@gmail.com.com](mailto:vishalvk2219@gmail.com)
 
 ### Support
 - 🐛 **Issues**: [GitHub Issues](https://github.com/vishalvk2219/PestReKNet-X/issues)
