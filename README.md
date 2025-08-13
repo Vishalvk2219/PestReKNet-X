@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-95.09%25-brightgreen.svg)](#key-results)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16829681.svg)](https://doi.org/10.5281/zenodo.16829681)
 
 ![PestReKNet-X Architecture](./assets/PestReKNet-X-architecture.png)
 *Figure 1: Overview of PestReKNet-X architecture combining ResNet18 backbone with custom KAN layer*
